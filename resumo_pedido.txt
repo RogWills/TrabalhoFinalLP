@@ -1,0 +1,18 @@
+Pedido realizado com sucesso!
+Número do pedido: 56
+Cliente: MATHEUS
+Tamanho do açaí: Grande
+Acréscimos: R$ 4.0
+Valor final: R$ 12.0
+Pedido realizado com sucesso!
+Número do pedido: 57
+Cliente: roger
+Tamanho do açaí: Pequena
+Acréscimos: R$ 0.0
+Valor final: R$ 0.0
+Pedido realizado com sucesso!
+Número do pedido: 58
+Cliente: igor
+Tamanho do açaí: Pequena
+Acréscimos: R$ 0.0
+Valor final: R$ 0.0
